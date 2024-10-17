@@ -1,5 +1,5 @@
 ## 경력 이력 
-*어쩌구저쩌구
+* 어쩌구저쩌구
 
 ## Skill
 * AutoCAD, Revit ~~~~ Python, Java ~~~
